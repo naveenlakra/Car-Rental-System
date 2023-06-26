@@ -1,0 +1,20 @@
+body
+{    
+     background-image: url(ima.jpg);
+     background-size: cover;
+     
+}
+img
+{   width: 400px;
+    height: 400px;
+    margin: 35px;
+   
+}
+h2
+{    text-align: center;
+     text-decoration: bold;
+     
+}
+.last3
+{    border: bold;
+}
